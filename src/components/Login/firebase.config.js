@@ -1,10 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBHhOX8rtp2vahVcATkhTD_7CwARw6arrk",
-    authDomain: "fire-auth2.firebaseapp.com",
-    databaseURL: "https://fire-auth2.firebaseio.com",
-    projectId: "fire-auth2",
-    storageBucket: "fire-auth2.appspot.com",
-    messagingSenderId: "587131087182",
-    appId: "1:587131087182:web:f7e53e9007fe7760d7561f"
-  };
-  export default firebaseConfig;
+  apiKey: "AIzaSyDKfALDcAlYAPpCaxXRi0birq-8b5egC20",
+  authDomain: "ema-john-with-auth-be770.firebaseapp.com",
+  databaseURL: "https://ema-john-with-auth-be770.firebaseio.com",
+  projectId: "ema-john-with-auth-be770",
+  storageBucket: "ema-john-with-auth-be770.appspot.com",
+  messagingSenderId: "773652963549",
+  appId: "1:773652963549:web:e76235ab87de54399ebb34"
+};
+
+export default firebaseConfig;
